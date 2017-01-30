@@ -2,8 +2,8 @@
 
 This project is an active collaboration with ProPublica helping to identify and analyze trends within government spending and activities. Project ideas are largely fed by interest from ProPublica's side, but the analysis of the specific project can certainly lead to new questions to answer!
 
-** Leads ** @ryanes and @eric_bickel
-** Contact ** @dwillis
+**Leads** @ryanes and @eric_bickel
+**Contact** @dwillis
 
 If you're interested in working with us, reach out to Ryan or Eric to be added to the ProPublica team in the Data For Democracy GitHub org!
 
@@ -11,13 +11,13 @@ If you're interested in working with us, reach out to Ryan or Eric to be added t
 
 ### [Campaign Spending](https://github.com/Data4Democracy/campaign_expenditures)
 
-** Background ** 
+**Background** 
 
 Analyzing trends and behaviors in campaign spending - who is spending the money, and where is it going? This information can help inform the electorate on ties between their representatives and outside parties.
 
 For more on the data, check out [about_the_data](https://github.com/Data4Democracy/campaign_expenditures/blob/master/about_the_data.Rmd).
 
-** Current Needs **
+**Current Needs**
 
 - [Moving data to data.world](https://github.com/Data4Democracy/campaign_expenditures/issues/2)
 - [Standardizing spending categories](https://github.com/Data4Democracy/campaign_expenditures/issues/3)
@@ -25,13 +25,13 @@ For more on the data, check out [about_the_data](https://github.com/Data4Democra
 
 ### [House Expenditures](https://github.com/Data4Democracy/house_expenditures)
 
-** Background ** 
+**Background** 
 
 Collecting and cleansing data around federal expenditures, and analyzing activity to identify anomalous behaviours in spending.
 
 For background on the data, check out [this ProPublica post](https://www.propublica.org/article/update-on-house-disbursements-a-few-notes-on-how-to-use-the-data)
 
-** Current Needs **
+**Current Needs**
 
 - [Move data to data.world](https://github.com/Data4Democracy/house_expenditures/issues/4)
 - [Standardize office, payee, and recipient receipts](https://github.com/Data4Democracy/house_expenditures/issues/6)
@@ -39,11 +39,11 @@ For background on the data, check out [this ProPublica post](https://www.propubl
 
 ### [Official Foreign Travel](https://github.com/Data4Democracy/official-foreign-travel)
 
-** Background ** 
+**Background** 
 
 Analyzing the behavior in foreign travel for congressional members - who is traveling where and when and what committees are "frequeny flyers"
 
-** Current Needs **
+**Current Needs**
 
 - [Mining text files for valid info](https://github.com/Data4Democracy/official-foreign-travel/issues/1)
 - [Analyzing results from text mining](https://github.com/Data4Democracy/official-foreign-travel/issues/2)
