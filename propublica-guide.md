@@ -2,8 +2,8 @@
 
 This project is an active collaboration with ProPublica helping to identify and analyze trends within government spending and activities. Project ideas are largely fed by interest from ProPublica's side, but the analysis of the specific project can certainly lead to new questions to answer!
 
-** Leads **: @ryanes and @eric_bickel
-** Contact **: @dwillis
+** Leads ** @ryanes and @eric_bickel
+** Contact ** @dwillis
 
 If you're interested in working with us, reach out to Ryan or Eric to be added to the ProPublica team in the Data For Democracy GitHub org!
 
